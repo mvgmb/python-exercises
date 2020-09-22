@@ -1,6 +1,5 @@
 # python-exercises
 
-- [variables](https://github.com/mvgmb/python-exercises/tree/master/variables) (0)
 - [type_conversion](https://github.com/mvgmb/python-exercises/tree/master/type_conversion) (0)
 - [arithmetic_operators](https://github.com/mvgmb/python-exercises/tree/master/arithmetic_operators) (0)
 - [flux_control](https://github.com/mvgmb/python-exercises/tree/master/flux_control) (0)
