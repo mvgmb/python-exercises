@@ -1,9 +1,8 @@
 # python-exercises
 
-- [variables](https://github.com/mvgmb/python-exercises/tree/master/variables)
-- [arithmetic_operators](https://github.com/mvgmb/python-exercises/tree/master/arithmetic_operators)
-- [type_conversion](https://github.com/mvgmb/python-exercises/tree/master/type_conversion)
-- [conditionals](https://github.com/mvgmb/python-exercises/tree/master/conditionals)
-- [boolean_expressions](https://github.com/mvgmb/python-exercises/tree/master/boolean_expressions)
-- [loops](https://github.com/mvgmb/python-exercises/tree/master/loops)
-- [file_read_write](https://github.com/mvgmb/python-exercises/tree/master/file_read_write)
+- [variables](https://github.com/mvgmb/python-exercises/tree/master/variables) (0)
+- [type_conversion](https://github.com/mvgmb/python-exercises/tree/master/type_conversion) (0)
+- [arithmetic_operators](https://github.com/mvgmb/python-exercises/tree/master/arithmetic_operators) (0)
+- [flux_control](https://github.com/mvgmb/python-exercises/tree/master/flux_control) (0)
+- [loops](https://github.com/mvgmb/python-exercises/tree/master/loops) (0)
+- [file_read_write](https://github.com/mvgmb/python-exercises/tree/master/file_read_write) (0)
