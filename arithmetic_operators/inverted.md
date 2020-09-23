@@ -25,7 +25,7 @@ num = 123
 ```
 
 <details>
-    <summary>Resposta</summary>
+    <summary>Resposta 1</summary>
 <p>
 
 ```python
@@ -49,3 +49,23 @@ print(inv_num)
 
 </p>
 </details>
+
+<details>
+    <summary>Resposta 2</summary>
+<p>
+
+```python
+num = str(123)
+
+lista = []
+for i in range(len(num)):
+    lista.insert(i, num[i])
+    
+reversedstring = ''.join(reversed(lista))
+print(int(reversedstring))
+```
+
+</p>
+</details>
+
+
