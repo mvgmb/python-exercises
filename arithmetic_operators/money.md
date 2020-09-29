@@ -36,7 +36,7 @@ num = 576.73
 ```
 
 <details>
-    <summary>Resposta</summary>
+    <summary>Resposta 1</summary>
 <p>
 
 ```python
@@ -95,6 +95,89 @@ num -= count * 5
 count = int(num)
 print(count, "x R$ 0.01")
 num -= count
+```
+
+</p>
+</details>
+
+<details>
+    <summary>Resposta 2</summary>
+<p>
+
+```python
+num = float(576.73)
+
+i = 0 
+while num > 100:
+    num = num - 100
+    i+=1
+print(i, "x R$ 100.00")
+
+i = 0
+while num > 50:
+    num = num - 50
+    i+=1
+print(i, "x R$ 50.00")
+
+i = 0
+while num > 20:
+    num = num - 20
+    i+=1
+print(i, "x R$ 20.00")
+
+i = 0
+while num > 10:
+    num = num - 10
+    i+=1
+print(i, "x R$ 10.00")
+
+i = 0
+while num > 5:
+    num = num - 5
+    i+=1
+print(i, "x R$ 5.00")
+
+i = 0
+while num > 2:
+    num = num - 2
+    i+=1
+print(i, "x R$ 2.00")
+
+i = 0
+while num > 1:
+    num = num - 1
+    i+=1
+print(i, "x R$ 1.00")
+
+i = 0
+while num > 0.5:
+    num = num - 0.5
+    i+=1
+print(i, "x R$ 0.50")
+
+i = 0
+while num > 0.25:
+    num = num - 0.25
+    i+=1
+print(i, "x R$ 0.25")
+
+i = 0
+while num > 0.10:
+    num = num - 0.10
+    i+=1
+print(i, "x R$ 0.10")
+
+i = 0
+while num > 0.05:
+    num = num - 0.05
+    i+=1
+print(i, "x R$ 0.05")
+
+i = 0
+while num > 0.01:
+    num = num - 0.01
+    i+=1
+print(i, "x R$ 0.01")
 ```
 
 </p>
