@@ -26,7 +26,7 @@ trafficTax = 80.00
 ```
 
 <details>
-    <summary>Resposta</summary>
+    <summary>Resposta 1</summary>
 <p>
 
 ```python
@@ -37,6 +37,25 @@ totalTax = ipva * 0.95 + trafficTax
 formattedTotalTax = "{:.2f}".format(totalTax)
 
 print(formattedTotalTax)
+```
+
+</p>
+</details>
+
+<details>
+    <summary>Resposta 2</summary>
+<p>
+
+```python
+valoripva = 100
+taxa = 80
+pagamento = 'adiantado'
+
+if pagamento == 'adiantado':
+    valoripva = valoripva - (5*valoripva)/100
+    total = valoripva + taxa
+    
+print('O total é:',total)
 ```
 
 </p>
