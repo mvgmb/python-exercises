@@ -182,3 +182,22 @@ print(i, "x R$ 0.01")
 
 </p>
 </details>
+
+<details>
+    <summary>Resposta 3</summary>
+<p>
+
+```python
+bills = [100, 50, 20, 10, 5, 2, 1, 0.5, 0.25, 0.10, 0.05, 0.01]
+num = 576.73
+
+count = 0
+for bill in bills:
+    count = int(num / bill)
+    print(count, "x R$", "{:.2f}".format(bill))
+    num -= count * bill
+```
+
+</p>
+</details>
+
